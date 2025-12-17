@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Project/',
+  base: './',
   plugins: [react(), tailwindcss()],
   // Prevent multiple React copies being bundled (fixes Invalid hook call)
   resolve: {
