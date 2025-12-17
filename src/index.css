@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: anzo0;
+  src: url(./assets/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2);
+}
+
+@font-face {
+  font-family: anzo1;
+  src: url(./assets/InterTight-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family: anzo2;
+  src: url(./assets/KFOlCnqEu92Fr1MmEU9fBBc4.woff2);
+}
+@font-face {
+  font-family: anzo3;
+  src: url(./assets/KFOmCnqEu92Fr1Mu4mxK.woff2);
+}
+@font-face {
+  font-family: anzo4;
+  src: url(./assets/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2);
+}
+#tiltDiv{
+  width: fit-content;
+}
+  /* giving the value prespective so it can move */
+#page1-in{
+  position: relative;
+  perspective: 1000px;
+}
+#section-2{
+  position: relative;
+  perspective: 950px;
+}
+
