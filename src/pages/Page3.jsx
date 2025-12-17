@@ -9,12 +9,12 @@ const Page3 = () => {
     const innertext = ['For Public and Private companies', 'From the frist pitch to ipo']
   return (
 
-    <div className=' w-full h-screen bg-[url(".\assets\img.jpg")] bg-cover bg-center pt-1'>
+    <div className=' w-full h-screen bg-[url("./assets/img.jpg")] bg-cover bg-center pt-1'>
       <div className='textstructure mt-40 px-20'>
         {text.map((item,idx)=>{
           return <div key={idx} className='masker  overflow-hidden '>
             <div className='w-fit flex items-center'>
-              {idx===1 && (<motion.div initial={{width:0}} animate={{width:"9vw"}} transition={{ease:[0.76,0,0.24,1], duration:2, repeat:[2]}} className='w-[9vw] h-[5.7vw] relative rounded top-[0.5vw] bg-[url(".\assets\img.jpg")] bg-cover bg-center'></motion.div>)}
+              {idx===1 && (<motion.div initial={{width:0}} animate={{width:"9vw"}} transition={{ease:[0.76,0,0.24,1], duration:2, repeat:[2]}} className='w-[9vw] h-[5.7vw] relative rounded top-[0.5vw] bg-[url("./assets/img.jpg")] bg-cover bg-center'></motion.div>)}
               
 
 
