@@ -25,8 +25,8 @@ const Page1Bottom = () => {
                 </h3>
         </div>
         <div id='banner'>
-            <img className='mb-10 h-[5vw] w-[5vw] rounded-full' src="https://i.pinimg.com/736x/bc/c2/c1/bcc2c19256a7513dff359d3da7875559.jpg" alt="" />
-            <img className=' h-[5vw] w-[5vw] rounded-full'  src="https://i.pinimg.com/736x/97/b8/33/97b833edd91d481e31637e1f00408d51.jpg" alt="" />
+          <img className='mb-10 h-[5vw] w-[5vw] rounded-full' src="/assets/avatar1.svg" alt="avatar 1" />
+          <img className=' h-[5vw] w-[5vw] rounded-full'  src="/assets/avatar2.svg" alt="avatar 2" />
         </div>
       
     </div>

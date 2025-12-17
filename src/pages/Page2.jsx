@@ -15,12 +15,12 @@ const Page2 = () => {
             duration:2,
             stagger:1,
             //scrolltrigger ko karne kaam aata hai
-            scrollTrigger:{
-                trigger:'rotateText',
-                start:"15%",
-                end:"top -150%",
-                scrub:2
-            }
+                scrollTrigger:{
+                    trigger:'#section-2',
+                    start:"top 15%",
+                    end:"top -150%",
+                    scrub:2
+                }
         })
     })
 

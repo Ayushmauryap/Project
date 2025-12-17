@@ -3,23 +3,28 @@
 @font-face {
   font-family: anzo0;
   src: url(./assets/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2);
+  font-display: swap;
 }
 
 @font-face {
   font-family: anzo1;
   src: url(./assets/InterTight-VariableFont_wght.ttf);
+  font-display: swap;
 }
 @font-face {
   font-family: anzo2;
   src: url(./assets/KFOlCnqEu92Fr1MmEU9fBBc4.woff2);
+  font-display: swap;
 }
 @font-face {
   font-family: anzo3;
   src: url(./assets/KFOmCnqEu92Fr1Mu4mxK.woff2);
+  font-display: swap;
 }
 @font-face {
   font-family: anzo4;
   src: url(./assets/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2);
+  font-display: swap;
 }
 #tiltDiv{
   width: fit-content;
