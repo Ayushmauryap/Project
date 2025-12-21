@@ -26,7 +26,7 @@ const Page1Bottom = () => {
         </div>
         <div id='banner'>
           <img className='mb-10 h-[5vw] w-[5vw] rounded-full' src="/assets/avatar2.svg" alt="avatar 1" />
-          <img className=' h-[5vw] w-[5vw] rounded-full'  src="/assets/avatar2.svg" alt="avatar 2" />
+          <img className=' h-[5vw] w-[5vw] rounded-full'  src="/assets/avatar1.svg" alt="avatar 2" />
         </div>
       
     </div>
